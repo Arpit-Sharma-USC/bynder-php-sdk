@@ -4,7 +4,7 @@
 The main goal of this SDK is to speed up the integration of Bynder customers who use PHP. Making it easier to connect to the Bynder API (https://bynder.docs.apiary.io) and executing requests on it.
 
 ## Requirements and dependencies
-
+Test
 The PHP SDK requires the following in order to fully work:
 
 - [`PHP >= 5.6`](https://secure.php.net/manual/en/book.curl.php), older versions of PHP not recommended
